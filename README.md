@@ -53,15 +53,23 @@ A **Film filter** allows dynamic exploration across all visuals.
 ## 📁 Project Structure
 
 Film_Profits_WorldwideGross_AudienceScore_Dashboard/
+
 ├── Dashboard/
 │   └── Film_Profits_WorldwideGross_AudienceScore_Dashboard.twb
+
 ├── Dataset/
 │   └── HollywoodsMostProfitableStories.csv
+
 ├── Profit by Film.twb
+
 ├── Audience score by Film.twb
+
 ├── WorldWide Audience Score % by Film.twb
+
 ├── WorldWide Gross By Film.twb
+
 ├── Film_Profits_WorldwideGross_AudienceScore_Tableau_Dashboard.png
+
 └── README.md
 
 ---
